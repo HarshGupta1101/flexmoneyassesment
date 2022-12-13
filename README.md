@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <p align="center">
-    <h1>FlexMoney - Assesment</h1>
+    <h2>FlexMoney - Assesment</h2>
   </p>
 </div>
 
