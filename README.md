@@ -2,9 +2,9 @@
 
 <br />
 <div align="center">
-  <p align="center">
-    <h2>FlexMoney - Assesment</h2>
-  </p>
+  <h1 align="center">
+    <b>FlexMoney - Assesment</b>
+  </h1>
 </div>
 
 ## About The Project
